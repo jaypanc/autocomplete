@@ -1,4 +1,4 @@
-# autocomplete
+# autocorrect
 basic autocorrect model done on word using delete, insert, switch, replace operation.   
   
 Jupyter file contains code with examples done.  
